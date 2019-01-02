@@ -2,7 +2,7 @@
 
   <section class="avatar">
     <figure class="image">
-      <img src="https://bulma.io/images/placeholders/256x256.png">
+      <img src="@/assets/img/avatar.png">
       <div class="caption">
         <vue-typer
           :text='["Javier Arredondo Contreras", "Javier_Arredondo_Contreras"]'
