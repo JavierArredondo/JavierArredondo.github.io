@@ -1,33 +1,33 @@
 <template lang="html">
 
   <section class="experience">
-    <h1>experience Component</h1>
+    <h2><i class="fa fa-diagnoses fa-fw margin-right has-text-primary"></i>Experiencia</h2>
   </section>
 
 </template>
 
 <script lang="js">
-  export default  {
-    name: 'experience',
-    props: [],
-    mounted() {
+export default {
+  name: 'Experience',
+  props: [],
+  mounted () {
 
-    },
-    data() {
-      return {
-
-      }
-    },
-    methods: {
-
-    },
-    computed: {
+  },
+  data () {
+    return {
 
     }
+  },
+  methods: {
+
+  },
+  computed: {
+
+  }
 }
 </script>
 
-<style scoped lang="scss">
+<style scoped>
   .experience {
 
   }

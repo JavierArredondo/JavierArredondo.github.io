@@ -12,7 +12,7 @@
           :pre-type-delay='100'
           :type-delay='100'
           :erase-delay='100'
-          pre-erase-delay='1000000'
+          pre-erase-delay='10000'
           erase-style='backspace'
           :erase-on-complete='false'
           caret-animation='blink'
@@ -20,7 +20,6 @@
       </div>
     </figure>
   </section>
-
 </template>
 
 <script lang="js">

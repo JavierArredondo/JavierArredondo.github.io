@@ -10,7 +10,10 @@
           </div>
           <div class="column">
             <div class="box">
-              dsadas
+              <Experience></Experience>
+            </div>
+            <div class="box">
+              dsadas diagnoses
             </div>
           </div>
         </div>
@@ -21,9 +24,11 @@
 
 <script lang="js">
 import Information from '@/components/Information'
+import Experience from '@/components/Experience'
 
 const components = {
-  Information
+  Information,
+  Experience
 }
 
 export default {
