@@ -1,33 +1,33 @@
 <template lang="html">
 
   <section class="education">
-    <h1>education Component</h1>
+    <h2><i class="fa fa-graduation-cap  fa-fw margin-right has-text-primary"></i>Educación</h2>
   </section>
 
 </template>
 
 <script lang="js">
-  export default  {
-    name: 'education',
-    props: [],
-    mounted() {
+export default {
+  name: 'education',
+  props: [],
+  mounted () {
 
-    },
-    data() {
-      return {
-
-      }
-    },
-    methods: {
-
-    },
-    computed: {
+  },
+  data () {
+    return {
 
     }
+  },
+  methods: {
+
+  },
+  computed: {
+
+  }
 }
 </script>
 
-<style scoped lang="scss">
+<style scoped>
   .education {
 
   }

@@ -29,6 +29,58 @@
     </div>
     <hr>
     <h3><i class="fa fa-angle-right fa-fw margin-right has-text-primary"></i>Tecnologías</h3>
+    <p><i class="fa fa-laptop  fa-fw margin-right has-text-primary"></i>Lenguajes</p>
+    <b-taglist class="v-center">
+      <b-tag rounded>Python</b-tag>
+      <b-tag rounded>C</b-tag>
+      <b-tag rounded>Java</b-tag>
+      <b-tag rounded>R</b-tag>
+      <b-tag rounded>Javascript</b-tag>
+      <b-tag rounded>Typescript</b-tag>
+    </b-taglist>
+    <div class="is-dashed"></div>
+    <p><i class="fa fa-compass  fa-fw margin-right has-text-primary"></i>Frameworks</p>
+    <b-taglist class="v-center">
+      <b-tag rounded>Vue.js</b-tag>
+      <b-tag rounded>Angular 4</b-tag>
+      <b-tag rounded>Laravel</b-tag>
+      <b-tag rounded>Spring Boot</b-tag>
+    </b-taglist>
+    <div class="is-dashed"></div>
+    <p><i class="fa fa-database  fa-fw margin-right has-text-primary"></i>Bases de datos</p>
+    <b-taglist class="v-center">
+      <b-tag rounded>H2</b-tag>
+      <b-tag rounded>MySQL</b-tag>
+      <b-tag rounded>PostgreSQL</b-tag>
+      <b-tag rounded>MongoDB</b-tag>
+    </b-taglist>
+    <div class="is-dashed"></div>
+    <p><i class="fa fa-cubes  fa-fw margin-right has-text-primary"></i>IDEs</p>
+    <b-taglist class="v-center">
+      <b-tag rounded>Intellij IDEA</b-tag>
+      <b-tag rounded>RStudio</b-tag>
+      <b-tag rounded>Netbeans</b-tag>
+      <b-tag rounded>PyCharm</b-tag>
+    </b-taglist>
+    <div class="is-dashed"></div>
+    <p><i class="fab fa-linux  fa-fw margin-right has-text-primary"></i>Sistemas Operativos</p>
+    <b-taglist class="v-center">
+      <b-tag rounded>Linux</b-tag>
+      <b-tag rounded>Windows</b-tag>
+    </b-taglist>
+    <div class="is-dashed"></div>
+    <p><i class="fa fa-bolt fa-fw margin-right has-text-primary"></i>Otros</p>
+    <b-taglist class="v-center">
+      <b-tag rounded>HTML</b-tag>
+      <b-tag rounded>CSS</b-tag>
+      <b-tag rounded>D3Plus</b-tag>
+      <b-tag rounded>Pentaho Data Integration</b-tag>
+      <b-tag rounded>Git</b-tag>
+      <b-tag rounded>GitFlow</b-tag>
+      <b-tag rounded>Firebase</b-tag>
+      <b-tag rounded>DigitalOcean</b-tag>
+      <b-tag rounded>Docker</b-tag>
+    </b-taglist>
   </section>
 </template>
 

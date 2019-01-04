@@ -10,10 +10,10 @@
           </div>
           <div class="column">
             <div class="box">
-              <Experience></Experience>
+              <Education></Education>
             </div>
             <div class="box">
-              dsadas diagnoses
+              <Experience></Experience>
             </div>
           </div>
         </div>
@@ -25,10 +25,12 @@
 <script lang="js">
 import Information from '@/components/Information'
 import Experience from '@/components/Experience'
+import Education from '@/components/Education'
 
 const components = {
   Information,
-  Experience
+  Experience,
+  Education
 }
 
 export default {

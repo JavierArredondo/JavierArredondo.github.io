@@ -29,3 +29,9 @@ h6 {
 .margin-right {
     margin-right: 16px !important;
 }
+
+.is-dashed {
+    border-bottom: 1px dashed #dfd6cc;
+    margin: 1.5rem 0;
+    width: 100%;
+  }
