@@ -1,5 +1,5 @@
 html,body,h1,h2,h3,h4,h5,h6 {
-    font-family: "Lato", sans-serif
+    font-family: "Lato", sans-serif;
 }
 
 h1 {
@@ -34,4 +34,19 @@ h6 {
     border-bottom: 1px dashed #dfd6cc;
     margin: 1.5rem 0;
     width: 100%;
-  }
+}
+
+.is-padding-16 {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.is-margin-5 {
+    margin-top: 10px;
+    margin-bottom: 1px;
+}
+
+p, ul {
+    font-size: 16px;
+}
+

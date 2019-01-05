@@ -17,6 +17,12 @@
             </div>
           </div>
         </div>
+        <div class="columns is-variable is-2">
+          <div class="column">
+            <div class="box">
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </section>
