@@ -16,6 +16,8 @@
       <b-tag rounded class="is-primary">Patrones de Diseño</b-tag>
       <b-tag rounded class="is-primary">UX</b-tag>
       <b-tag rounded class="is-primary">Arquitectura de Software</b-tag>
+      <b-tag rounded class="is-primary">Astroinformática</b-tag>
+      <b-tag rounded class="is-primary">Machine Learning</b-tag>
     </b-taglist>
     <hr>
     <h3><i class="fa fa-globe-americas fa-fw margin-right has-text-primary"></i>Idiomas</h3>
@@ -80,6 +82,8 @@
       <b-tag rounded>Firebase</b-tag>
       <b-tag rounded>DigitalOcean</b-tag>
       <b-tag rounded>Docker</b-tag>
+      <b-tag rounded>Kafka</b-tag>
+      <b-tag rounded>Pandas</b-tag>
     </b-taglist>
     <hr>
     <h3><i class="fa fa-trophy  fa-fw margin-right has-text-primary"></i>Reconocimientos</h3>
@@ -90,7 +94,7 @@
     <div class="is-dashed"></div>
     <div class="content">
       <p class="has-text-weight-bold"><i class="fa fa-robot fa-fw margin-right has-text-primary"></i>Primer lugar en Hackathon DefHacks</p>
-      <p class="has-text-justified">Diciembre 2018. Realización del proyecto "WallyBot" un chatbot asistente entrenado para ayudar la organización de los estudiantes. Este fue publicado en el canal de Telegram, y fue desarrollado con las herramientas de Microsoft Bot Framework y C#</p>
+      <p class="has-text-justified">Abril 2018. Realización del proyecto "WallyBot" un chatbot asistente entrenado para ayudar la organización de los estudiantes. Este fue publicado en el canal de Telegram, y fue desarrollado con las herramientas de Microsoft Bot Framework y C#</p>
     </div>
   </section>
 </template>

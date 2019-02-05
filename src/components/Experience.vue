@@ -69,22 +69,17 @@
       </div>
       <ul class="has-text-justified">
         <li>
-          Ayudante de investigación en Laboratorio de Biomédica en el Departamento
-          de Ingeniería Informática de la Universidad de Santiago de Chile. Se participó
-          ayudando en la investigación de las distintas causas de deserción universitaria
-          en el Departamento de Ingeniería Informática; las tareas desempeñadas en
-          este proyecto estaban comprometidas con soporte técnico en servidores y
-          estudio de datos con R.
+          Se realizan tareas de organización y gestión en el laboratorio de Biomédica del Departamento de Ingeniería Informática. Tareas: mantención del lugar, administración de personal, gestión de insumos y procesar muestras.
         </li>
       </ul>
     </div>
 
     <hr>
     <div class="content is-small is-margin-5">
-      <h3>Desarrollador Web</h3>
+      <h3>Desarrollador de Software</h3>
       <h4 class="has-text-primary">Independiente</h4>
       <div class="level">
-        <h5><i class="fa fa-calendar-alt  fa-fw margin-right has-text-primary"></i>Agosto 2018 -  <b-tag type="is-primary">Actualidad</b-tag></h5>
+        <h5><i class="fa fa-calendar-alt  fa-fw margin-right has-text-primary"></i>Agosto 2018 - Diciembre 2018</h5>
         <h5><i class="fa fa-map-marker-alt  fa-fw margin-right has-text-primary"></i>Santiago, Chile</h5>
       </div>
       <ul class="has-text-justified">
@@ -99,6 +94,16 @@
           consultas individuales y masivas a servicios externos, con el fin de reducir el
           valor de cada consulta realizada. Para esto se ha trabajado con Spring Boot y
           Angular 4.
+        </li>
+      </ul>
+      <h4 class="has-text-primary">Instituto Milenio de Astrofísica</h4>
+      <div class="level">
+        <h5><i class="fa fa-calendar-alt  fa-fw margin-right has-text-primary"></i>Enero 2019 -  <b-tag type="is-primary">Actualidad</b-tag></h5>
+        <h5><i class="fa fa-map-marker-alt  fa-fw margin-right has-text-primary"></i>Santiago, Chile</h5>
+      </div>
+      <ul class="has-text-justified">
+        <li>
+          Colaboración en desarrollo de broker ALeRCE en el laboratorio de Astroinformática del Centro de Modelamiento Matemático. Se ha prestado apoyo en infraestructura, desarrollo de backend y frontend.
         </li>
       </ul>
     </div>
