@@ -4,9 +4,11 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import Buefy from 'buefy'
+import Vuetify from 'vuetify'
 import 'buefy/dist/buefy.css'
 
 Vue.use(Buefy)
+Vue.use(Vuetify)
 
 Vue.config.productionTip = false
 

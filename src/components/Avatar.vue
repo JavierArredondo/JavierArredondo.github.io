@@ -2,7 +2,7 @@
 
   <section class="avatar">
     <figure class="image">
-      <img src="@/assets/img/avatar.png">
+      <img src="@/assets/img/me.jpg">
       <div class="caption">
         <vue-typer
           :text='["Javier Arredondo Contreras", "Javier_Arredondo_Contreras"]'
