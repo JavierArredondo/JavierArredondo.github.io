@@ -3,7 +3,7 @@
     <Avatar></Avatar>
     <p class="has-text-justified"> Hi, my names is Javier Arredondo, I'm a student of Computer Engineering. I like read books about science fiction, astronomy and history. Also I like coffee, watch TV series and travel. </p>
     <p class="has-text-justified"> Actually I’m working at Millenium Institute of Astrophysics being research assistant in ALeRCE project. My responsibilities include frontend development, backend development and preprocessing data. In this experience I’ve learned about astronomical data and telescope technologies. </p>
-    <p class="has-text-justified"> I like the social impact that science has on society. I think the data associated with a good analysis can improve the life we ​​already have (like biomedical researches). For my future I hope to study M.Sc in Science and later a PhD, oriented in machine learning and architecture for big data. </p>
+    <p class="has-text-justified"> I like the social impact that science has on society. I think the data associated with a good analysis can improve the life better. For my future I hope to study M.Sc in Science and later a PhD, oriented in machine learning and architecture for big data.</p>
     <hr>
     <p><i class="fa fa-briefcase fa-fw margin-right has-text-primary"></i>Computer Engineering student</p>
     <p><i class="fa fa-map-marker-alt fa-fw margin-right has-text-primary"></i>Santiago, Chile</p>
