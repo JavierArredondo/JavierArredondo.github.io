@@ -88,8 +88,6 @@
         </li>
       </ul>
     </div>
-
-
   </section>
 
 </template>
