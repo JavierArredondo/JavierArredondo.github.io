@@ -1,0 +1,4 @@
+export const state = {
+    fullname: "Javier Andrés Arredondo Contreras",
+    biography: "Hi, my name is Javier Arredondo, I'm a student of Computer Engineering. I like read books about science fiction, astronomy and history. Also I like coffee, watch TV series and travel. Actually I’m working at Millenium Institute of Astrophysics being research assistant in ALeRCE project. My responsibilities include frontend development, backend development and preprocessing data. In this experience I’ve learned about astronomical data and telescope technologies. I like the social impact that science has on society. I think the data associated with a good analysis can improve the life better. For my future I hope to study M.Sc and later a PhD, oriented in machine learning and architecture for big data."
+}
