@@ -7,6 +7,7 @@
 				</v-flex>
 				<!-- Experiences -->
 				<v-flex xs12 sm12 md8>
+					<education></education>
 				</v-flex>
 		</v-layout>
 	</v-container>
@@ -14,10 +15,12 @@
 
 <script>
 import personal from "../components/Personal.vue"
+import education from "../components/Experiences.vue"
 export default {
   name: 'home',
   components: {
 		personal,
+		education
   }
 }
 </script>
