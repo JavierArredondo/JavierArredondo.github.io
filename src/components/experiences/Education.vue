@@ -7,7 +7,8 @@
             <v-toolbar-title>Education</v-toolbar-title>
         </v-toolbar>
         <v-list three-line>
-            <v-list-tile avatar v-for="item in education" :key="item.title">
+            <template v-for="(item, index) in education">
+                <v-list-tile avatar :key="item.title">
                 <v-list-tile-avatar>
                     <v-btn icon ripple>
                         <v-icon color="grey lighten-1">{{ item.icon }}</v-icon>
@@ -19,6 +20,8 @@
                     <v-list-tile-sub-title class="caption">{{ item.dates }}</v-list-tile-sub-title>
                 </v-list-tile-content>
             </v-list-tile>
+            <v-divider v-if="index + 1 < education.length" :key="`divider-${index}`"></v-divider>
+            </template>
         </v-list>
     </v-card>
 </template>
